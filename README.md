@@ -30,3 +30,14 @@ Targeting SMS reminders toward long-wait appointments can reduce missed visits a
 
 ## Notes
 This is an observational analysis; results indicate association rather than causation.
+
+## Key Visuals
+
+### No-Show Rate by Waiting Time
+![No-Show Rate by Waiting Time](images/waiting_time_noshow.png)
+
+### No-Show Rate by Age Group
+![No-Show Rate by Age Group](images/age_group_noshow.png)
+
+### SMS Effect for 30+ Day Appointments
+![SMS Effect](images/sms_effect_30plus.png)

@@ -34,10 +34,10 @@ This is an observational analysis; results indicate association rather than caus
 ## Key Visuals
 
 ### No-Show Rate by Waiting Time
-![No-Show Rate by Waiting Time](images/waiting_time_noshow.png)
+<img src="images/waiting_time_noshow.png" width="700"/>
 
 ### No-Show Rate by Age Group
-![No-Show Rate by Age Group](images/age_group_noshow.png)
+<img src="images/age_group_noshow.png" width="700"/>
 
 ### SMS Effect for 30+ Day Appointments
-![SMS Effect](images/sms_effect_30plus.png)
+<img src="images/sms_effect_30plus.png" width="700"/>png)
